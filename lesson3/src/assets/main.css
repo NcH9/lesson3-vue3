@@ -7,6 +7,14 @@
   font-weight: normal;
 }
 
+.bubble {
+  background-color: rgb(86, 86, 86);
+  border-radius: 15px;
+  border: solid 1px rgb(61, 61, 61);
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 3px -3px 5px rgb(43, 43, 43);
+}
 a,
 .green {
   text-decoration: none;
